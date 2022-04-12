@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dAO/L1CZ6Ccw+e0gdpl9LuR8sHnQs+fFibFoZ5haJMY=",
+  "Source": "gadgets.WebAPI",
+  "BasePath": "_content/gadgets.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

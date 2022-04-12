@@ -1,0 +1,17 @@
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\bin\Debug\net6.0\gadgets.Application.deps.json
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\bin\Debug\net6.0\gadgets.Application.runtimeconfig.json
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\bin\Debug\net6.0\gadgets.Application.dll
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\bin\Debug\net6.0\gadgets.Application.pdb
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\bin\Debug\net6.0\gadgets.Domain.dll
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\bin\Debug\net6.0\gadgets.Domain.pdb
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\obj\Debug\net6.0\gadgets.Application.csproj.AssemblyReference.cache
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\obj\Debug\net6.0\gadgets.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\obj\Debug\net6.0\gadgets.Application.AssemblyInfoInputs.cache
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\obj\Debug\net6.0\gadgets.Application.AssemblyInfo.cs
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\obj\Debug\net6.0\gadgets.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\obj\Debug\net6.0\gadgets.Application.csproj.CopyComplete
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\obj\Debug\net6.0\gadgets.Application.dll
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\obj\Debug\net6.0\refint\gadgets.Application.dll
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\obj\Debug\net6.0\gadgets.Application.pdb
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\obj\Debug\net6.0\gadgets.Application.genruntimeconfig.cache
+C:\Users\Pavel\source\repos\gadgetsMain\gadgets.Applicarion\obj\Debug\net6.0\ref\gadgets.Application.dll
